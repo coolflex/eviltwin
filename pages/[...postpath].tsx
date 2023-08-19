@@ -18,7 +18,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					'https://luvxo.space/' + encodeURI(path as string)
+					'https://theelitebabes.cat/' + encodeURI(path as string)
 				}`,
 			},
 		};
